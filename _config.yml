@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://sinagub.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://sinagub.com
+title: Good writing is your right
+subtitle: Good writing is your right
+author: Jane Maris Sinagub, PhD
 simple_search: http://google.com/search
 description:
 
@@ -94,7 +94,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-43938207-1
 
 # Facebook Like
 facebook_like: false
